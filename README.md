@@ -1,21 +1,21 @@
 # Python Playground
 
-My personal repository for learning Python, documenting progress, and experimenting with code.
+My personal repository for learning Python and experimenting with code.
 
 ## Contents
 
 - `docs/` — Learning notes and documentation
 - `exercises/` — Practice exercises
-- `scripts/` — Useful Python scripts
-- `projects/` — Small projects
 - `experiments/` — Experiments and tests
+- `projects/` — Small projects
+- `scripts/` — Useful Python scripts
 
 ## Goals
 
 - Learn Python fundamentals
 - Practice writing clean, readable code
 - Build small projects and useful scripts
-- Document new concepts and solutions
+- Lern `playwright` and `pytest` libraries
 
 ## Progress
 
