@@ -15,7 +15,7 @@ My personal repository for learning Python and experimenting with code.
 - Learn Python fundamentals
 - Practice writing clean, readable code
 - Build small projects and useful scripts
-- Lern `playwright` and `pytest` libraries
+- Learn `playwright` and `pytest` libraries
 
 ## Progress
 
